@@ -1,0 +1,30 @@
+{
+  "name": "countries",
+  "version": "1.0.0",
+  "description": "Countries official names translations",
+  "main": "main.js",
+  "scripts": {
+    "test": "test",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osamaabdalla/countries.git"
+  },
+  "keywords": [
+    "countries",
+    "names",
+    "translations"
+  ],
+  "author": "Osama <system.osa@gmail.com> (https://osamaabdalla.com)",
+  "license": "MIT",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/osamaabdalla/countries/issues"
+  },
+  "homepage": "https://github.com/osamaabdalla/countries#readme",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  },
+  "devDependencies": {}
+}
